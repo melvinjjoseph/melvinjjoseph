@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/KJmbSTSyIzetubNgJ5/giphy.gif" height="300px">
 </div>
 <h1 align="center">
-  Hey There
+  Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
    , I'm Melvin J Joseph
 </h1>                                                                                 
