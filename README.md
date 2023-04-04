@@ -9,7 +9,7 @@
 <h3 align="center">
   A Computer Science student at <a href="https://pes.edu">PES University</a>
 </h3>
-<!-- <img src="https://komarev.com/ghpvc/?username=melvinjjoseph&style=flat-square&color=blue" alt=""/> -->
+<img src="https://komarev.com/ghpvc/?username=melvinjjoseph&style=flat-square&color=blue" alt=""/>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
