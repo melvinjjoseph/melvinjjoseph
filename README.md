@@ -4,7 +4,7 @@
 <h1 align="center">
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-   , I'm <a href="melvinjjoseph.github.io">Melvin J Joseph</a>
+   , I'm <a href="https://melvinjjoseph.github.io">Melvin J Joseph</a>
 </h1>                                                                                 
 <h3 align="center">
   A Computer Science student at <a href="https://pes.edu">PES University</a>
