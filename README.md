@@ -47,7 +47,7 @@ With a heart wired for tech and a zest for coding, I'm on a perpetual quest to u
 </div>
 
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️ Languages and Tools :
 <div>
   <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;</a>
   <a href="https://www.cprogramming.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;</a>
